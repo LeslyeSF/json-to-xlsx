@@ -1,0 +1,20 @@
+{
+  "name": "pratica",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "json-2-csv": "^3.17.1",
+    "json-csv": "^4.0.5",
+    "json2csv": "^5.0.7",
+    "pg": "^8.7.3"
+  }
+}
